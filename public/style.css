@@ -1,0 +1,25 @@
+:root {
+  --color-shark: #24292e;
+  --color-blue: #103595;
+  --color-silver: #bcbcbc;
+  --color-white: #ffffff;
+  --color-promegranate: #f24725;
+  --color-boulder: #797979;
+  --color-orange: #FF612D;
+  --color-black: #000000;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+}
+
+.link a:hover {
+  text-decoration: none;
+}
