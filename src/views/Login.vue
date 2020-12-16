@@ -18,11 +18,11 @@
               </p>
 
               <form class="mt-5">
-                 <div class="form-group col-8 mt-4">
+                 <div class="form-group col-9 mt-4 mx-3">
                     <label for="number" class="d-flex">Account Number</label>
                     <input type="number" name="number" id="number" class="form-control" >
                   </div>
-                <div class="form-group col-8">
+                <div class="form-group col-9 mx-3">
                   <div class="d-flex justify-content-between">
                     <label>Password</label> <a href="#!" class="forgot-password-link text-orange">Forgot password?</a>
                   </div>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="d-flex justify-content-around mt-5">
                    <button type="submit" class="btn btn-log">Login</button>
-                <p>Don’t have an account? <router-link to="/register" class="text-orange">Sign up</router-link> </p>
+                <p class="mr-5">Don’t have an account? <router-link to="/register" class="text-orange">Sign up</router-link> </p>
                 </div>
               </form>
             </div>
