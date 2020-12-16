@@ -16,10 +16,18 @@
 }
 
 img {
-  margin: 0;
-  padding: 0;
+  height: auto;
+  max-width: 100%;
 }
 
-.link a:hover {
+a:hover {
   text-decoration: none;
+}
+
+.text-orange {
+  color: var(--color-orange);
+}
+
+.text-black {
+  color: #000000 !important;
 }
