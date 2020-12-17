@@ -72,10 +72,6 @@ export default {}
 <style>
 .footer-about {
   background: #000000;
-  /* position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  padding: 3rem 2rem; */
+  margin-bottom: -40px !important;
 }
 </style>
